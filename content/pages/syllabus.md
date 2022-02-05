@@ -28,12 +28,57 @@ Comments: Griffiths is slightly more advanced than Purcell, more math oriented, 
 Grades
 ------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Two Quizzes (20% each) | 40% |
-| Homework and Recitation | 25% |
-| Laboratory (2 out of 3 needed to pass) | not graded\* |
-| Final Exam | 35% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Two Quizzes (20% each)
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework and Recitation
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Laboratory (2 out of 3 needed to pass)
+{{< tdclose >}}
+{{< tdopen >}}
+not graded\*
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+35%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 \*You **may not** pass the course without completing the laboratory requirements (see below).
 
