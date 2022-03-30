@@ -6,6 +6,7 @@ description: Part 2 of a reading on Special Relativity. This write-up summarizes
   of the way of adding velocities is also given.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/dfcee2a83ac572c2a3187b1dd0ffab23_relativity2.pdf
 file_type: application/pdf
+parent_uid: 5d4b2273-dee5-13e6-6e9f-e2defdf1e72b
 resourcetype: Document
 title: relativity2.pdf
 uid: dfcee2a8-3ac5-72c2-a318-7b1dd0ffab23
